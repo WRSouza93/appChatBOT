@@ -1,2 +1,3 @@
 google-generativeai
 streamlit
+load_dotenv
