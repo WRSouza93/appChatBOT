@@ -3,6 +3,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 import os
 
+st.set_page_config(layout="wide")
 # Carregar as variáveis de ambiente
 load_dotenv()
 
